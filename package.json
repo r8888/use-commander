@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/r8888/use-commander/issues"
   },
-  "homepage": "https://github.com/r8888/use-commander#readme"
+  "homepage": "https://github.com/r8888/use-commander#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
 }
